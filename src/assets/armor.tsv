@@ -84,11 +84,11 @@ id	itemType	rarity	name	defense	fireResist	waterResist	thunderResist	iceResist	d
 1083	Arms	9	Kulu Vambraces α +	116;132;154	0	-3	0	1	0	criticalBoost-1;proTransporter-1	1;1	kulu	0
 1084	Waist	9	Kulu Coil α +	116;132;154	0	-3	0	1	0	itemProlonger-2;criticalEye-1	3	kulu	0
 1085	Legs	9	Kulu Greaves α +	116;132;154	0	-3	0	1	0	criticalEye-2;itemProlonger-1	2	kulu	0
-1086	Head	9	Kulu Headpiece α +	116;132;154	0	-3	0	1	0	slingerCapacity-2	4	kulu	0
-1087	Chest	9	Kulu Mail α +	116;132;154	0	-3	0	1	0	staminaSurge-1;criticalEye-1	4	kulu	0
-1088	Arms	9	Kulu Vambraces α +	116;132;154	0	-3	0	1	0	criticalBoost-1	4	kulu	0
-1089	Waist	9	Kulu Coil α +	116;132;154	0	-3	0	1	0	itemProlonger-2	4;1	kulu	0
-1090	Legs	9	Kulu Greaves α +	116;132;154	0	-3	0	1	0	criticalEye-1;itemProlonger-1	4	kulu	0
+1086	Head	9	Kulu Headpiece β +	116;132;154	0	-3	0	1	0	slingerCapacity-2	4	kulu	0
+1087	Chest	9	Kulu Mail β +	116;132;154	0	-3	0	1	0	staminaSurge-1;criticalEye-1	4	kulu	0
+1088	Arms	9	Kulu Vambraces β +	116;132;154	0	-3	0	1	0	criticalBoost-1	4	kulu	0
+1089	Waist	9	Kulu Coil β +	116;132;154	0	-3	0	1	0	itemProlonger-2	4;1	kulu	0
+1090	Legs	9	Kulu Greaves β +	116;132;154	0	-3	0	1	0	criticalEye-1;itemProlonger-1	4	kulu	0
 1091	Head	9	Pukei Hat α +	118;134;156	0	3	-3	0	1	survivalExpert-2;poisonResistance-1	2;2	pukei	0
 1092	Chest	9	Pukei Mail α +	118;134;156	0	3	-3	0	1	itemProlonger-2;peakPerformance-1	2	pukei	0
 1093	Arms	9	Pukei Braces α +	118;134;156	0	3	-3	0	1	peakPerformance-2;survivalExpert-1	1	pukei	0
@@ -297,7 +297,7 @@ id	itemType	rarity	name	defense	fireResist	waterResist	thunderResist	iceResist	d
 1296	Head	10	Rathalos Helm β +	140;150;172	3	1	-2	1	-3	attackBoost-2;rathalosEssence	4;1	rathalos	0
 1297	Chest	10	Rathalos Mail β +	140;150;172	3	1	-2	1	-3	weaknessExploit-2;rathalosEssence	4	rathalos	0
 1298	Arms	10	Rathalos Vambraces β +	140;150;172	3	1	-2	1	-3	jumpMaster-1;rathalosEssence	4;3	rathalos	0
-1299	Waist	10	Rathalos Coil β +	140;150;172	3	1	-2	1	-3	fireAttack-2;rathalosEssence	3;2	rathalos	0
+1299	Waist	10	Rathalos Coil β +	140;150;172	3	1	-2	1	-3	fireAttack-2;rathalosEssence	4;2	rathalos	0
 1300	Legs	10	Rathalos Greaves β +	140;150;172	3	1	-2	1	-3	slingerCapacity-2;attackBoost-1;rathalosEssence	4	rathalos	0
 1301	Head	11	Rath Soul Helm α +	148;156;172	3	2	2	-3	-4	criticalBoost-1;cliffhanger-1;rathalosEssence	1;1	rathalos	0
 1302	Chest	11	Rath Soul Mail α +	148;156;172	3	2	2	-3	-4	freeElemAmmoUp-1;partbreaker-1;rathalosEssence	2	rathalos	0
@@ -699,11 +699,11 @@ id	itemType	rarity	name	defense	fireResist	waterResist	thunderResist	iceResist	d
 1698	Arms	12	Safi Crested Vambraces β +	168;174;186	2	1	1	1	-1	blightResistance-1;safijiivaSeal	4;2;2	safi;jiiva	0
 1699	Waist	12	Safi Crested Belt β +	168;174;186	2	1	1	1	-1	evadeWindow-2;safijiivaSeal	4;1	safi;jiiva	0
 1700	Legs	12	Safi Crested Boots β +	168;174;186	2	1	1	1	-1	criticalBoost-1;safijiivaSeal	4;2;1	safi;jiiva	0
-1711	Head	12	Banuk Helm α +	160;166;178	2	0	2	2	2	focus-2;aquaticExpert-1;anjanathDominance	4;1;1	horizon;banuk	0
-1712	Chest	12	Banuk Mail α +	160;166;178	2	0	2	2	2	marathonRunner-1;staminaSurge-1;anjanathDominance	4;3	horizon	0
-1713	Arms	12	Banuk Arms α +	160;166;178	2	0	2	2	2	focus-1;staminaSurge-1;anjanathDominance	4;3	horizon	0
-1714	Waist	12	Banuk coil α +	160;166;178	2	0	2	2	2	marathonRunner-2;aquaticExpert-1;anjanathDominance	4;1;1	horizon	0
-1715	Legs	12	Banuk Greaves α +	160;166;178	2	0	2	2	2	staminaSurge-1;resuscitate-1;anjanathDominance	4;2;2	horizon	0
+1711	Head	12	Banuk Helm α + [PS4 Exclusive]	160;166;178	2	0	2	2	2	focus-2;aquaticExpert-1;anjanathDominance	4;1;1	horizon	0
+1712	Chest	12	Banuk Mail α + [PS4 Exclusive]	160;166;178	2	0	2	2	2	marathonRunner-1;staminaSurge-1;anjanathDominance	4;3	horizon	0
+1713	Arms	12	Banuk Arms α + [PS4 Exclusive]	160;166;178	2	0	2	2	2	focus-1;staminaSurge-1;anjanathDominance	4;3	horizon	0
+1714	Waist	12	Banuk Coil α + [PS4 Exclusive]	160;166;178	2	0	2	2	2	marathonRunner-2;aquaticExpert-1;anjanathDominance	4;1;1	horizon	0
+1715	Legs	12	Banuk Greaves α + [PS4 Exclusive]	160;166;178	2	0	2	2	2	staminaSurge-1;resuscitate-1;anjanathDominance	4;2;2	horizon	0
 1722	Chest	12	Buff Chest α +	154;162;178	2	-1	0	-1	-3	agitator-3;fortify-1	1;1;1	event	0
 1723	Arms	12	Buff Arms α +	120;128;144	2	-1	0	-1	-3	attackBoost-3;resuscitate-1	4	event	0
 1724	Waist	12	Buff Waist α +	120;128;144	2	-1	0	-1	-3	agitator-2;heroics-3	4	event	0
